@@ -13,6 +13,9 @@ __pycache__/
 # archive/ratings_small.csv
 archive/
 
+#config file with database pw
+config.py
+
 
 # C extensions
 *.so
