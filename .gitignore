@@ -11,7 +11,7 @@ __pycache__/
 # arcive/movies_metadata.csv
 # archive/ratings.csv
 # archive/ratings_small.csv
-archive/
+Resources/
 
 #config file with database pw
 config.py
