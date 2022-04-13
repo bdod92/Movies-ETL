@@ -11,7 +11,9 @@ __pycache__/
 # arcive/movies_metadata.csv
 # archive/ratings.csv
 # archive/ratings_small.csv
-Resources/movies_metadata.csv
+# make sure to add the gitignore code before adding the large files
+# don't change git ignore and add files in same push
+Resources/ratings.csv
 Resources/credits.csv
 
 #config file with database pw
